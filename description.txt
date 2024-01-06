@@ -1,1 +1,2 @@
-BattleBlock Theater Frog Gun is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+BattleBlock Theater Frog Gun is a mod adding a new post-Duke gun.
+This gun takes ammo as rockets and shoots out frogs from BattleBlock Theater.
