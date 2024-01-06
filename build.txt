@@ -1,0 +1,3 @@
+displayName = BattleBlock Theater Frog Gun
+author = MrQuba
+version = 0.1

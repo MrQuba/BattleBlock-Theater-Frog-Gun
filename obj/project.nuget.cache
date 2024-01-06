@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5abqOPpQbSFPjLWXkpPZ6S9WGPK6Q2uUYzUrJWdyVmJhD56vpTULWbJJNJPyqAbu6Zf+AB094siNq346d4sndw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kuba\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FrogGun\\FrogGun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuba\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

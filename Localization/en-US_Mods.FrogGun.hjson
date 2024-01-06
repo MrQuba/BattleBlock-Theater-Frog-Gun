@@ -1,0 +1,13 @@
+Projectiles.FrogProjectile.DisplayName: Frog Projectile
+
+Items: {
+	FrogAmmo: {
+		DisplayName: Frog Ammo
+		Tooltip: ""
+	}
+
+	FrogLauncher: {
+		DisplayName: Frog Gun
+		Tooltip: "Frog Goes Boom"
+	}
+}
