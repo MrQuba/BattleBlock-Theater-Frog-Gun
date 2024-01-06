@@ -19,3 +19,9 @@ It uses rockets as ammo, and shoots out BattleBlock Theater Frogs. Base Damage i
 - decription.txt - description of the mod
 - Content - here is all content of the mod 
 - FrogGun.tmod - mod file - allows you to play with this mod
+
+  ## How to add a mod?
+  Just put .tmod file inside this directory:
+  ```
+  Documents\My Games\Terraria\tModLoader\Mods
+  ```
