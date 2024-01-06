@@ -17,4 +17,5 @@ It uses rockets as ammo, and shoots out BattleBlock Theater Frogs. Base Damage i
 - FrogGun.csproj - project of mod  
 - build.txt - info about mod
 - decription.txt - description of the mod
-- Content - here is all content of the mod  
+- Content - here is all content of the mod 
+- FrogGun.tmod - mod file - allows you to play with this mod
