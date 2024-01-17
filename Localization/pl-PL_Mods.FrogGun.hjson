@@ -1,0 +1,13 @@
+Projectiles.FrogProjectile.DisplayName: Żabowa Rakieta
+
+Items: {
+	FrogAmmo: {
+		DisplayName: Żabowa Amunicja
+		Tooltip: ""
+	}
+
+	FrogLauncher: {
+		DisplayName: Żabowy Pistolet
+		Tooltip: Żaba robi bum
+	}
+}
