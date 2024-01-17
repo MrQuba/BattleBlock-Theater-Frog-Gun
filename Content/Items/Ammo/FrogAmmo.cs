@@ -22,7 +22,6 @@ namespace FrogGun.Content.Items.Ammo
             Item.shoot = ModContent.ProjectileType<FrogProjectile>();
 			Item.shootSpeed = 15f;
             Item.ammo = AmmoID.Rocket;
-            //Item.ammo = AmmoID.Rocket;
 		}
 
 		public override void AddRecipes()
