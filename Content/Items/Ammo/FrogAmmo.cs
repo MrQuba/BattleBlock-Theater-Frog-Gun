@@ -27,8 +27,7 @@ namespace FrogGun.Content.Items.Ammo
 
 		public override void AddRecipes()
 		{
-			// TO DO - Craft Multiple Bullets
-			Recipe recipe = CreateRecipe();
+			Recipe recipe = CreateRecipe(100);
 			recipe.AddIngredient(ItemID.Frog, 1);
             recipe.AddIngredient(ItemID.TopHat, 1);
             recipe.AddTile(TileID.WorkBenches);
