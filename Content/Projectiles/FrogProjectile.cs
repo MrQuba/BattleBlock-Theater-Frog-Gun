@@ -13,12 +13,13 @@ namespace FrogGun.Content.Projectiles
             Projectile.height = 48;
 
             Projectile.DamageType = DamageClass.Ranged;
-            Projectile.damage = 250;
+            Projectile.damage = 320;
             Projectile.knockBack = 6f;
 
-            Projectile.tileCollide = true;
+            Projectile.tileCollide = false;
             Projectile.ignoreWater = true;
-            Projectile.penetrate = 1;
+            Projectile.penetrate = 8;
+            Projectile.timeLeft = 120;
 
             Projectile.friendly = true;
         }

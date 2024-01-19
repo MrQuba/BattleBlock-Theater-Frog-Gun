@@ -1,2 +1,3 @@
 BattleBlock Theater Frog Gun is a mod adding a new post-Duke gun.
-This gun takes ammo as rockets and shoots out frogs from BattleBlock Theater.
+It has a 1/4 chance to drop from Duke Fishron.
+This gun takes stakes (or post-Moon Lord ammo added by this mod) and shoots out frogs from BattleBlock Theater.

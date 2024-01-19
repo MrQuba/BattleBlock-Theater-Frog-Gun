@@ -20,8 +20,8 @@ namespace FrogGun.Content.Items.Ammo
 			Item.consumable = true;
 
             Item.shoot = ModContent.ProjectileType<FrogProjectile>();
-			Item.shootSpeed = 15f;
-            Item.ammo = AmmoID.Rocket;
+			Item.shootSpeed = 20f;
+            Item.ammo = AmmoID.Stake;
 		}
 
 		public override void AddRecipes()
@@ -29,7 +29,7 @@ namespace FrogGun.Content.Items.Ammo
 			Recipe recipe = CreateRecipe(100);
 			recipe.AddIngredient(ItemID.Frog, 1);
             recipe.AddIngredient(ItemID.TopHat, 1);
-            recipe.AddTile(TileID.WorkBenches);
+            recipe.AddTile(TileID.LunarCraftingStation);
             recipe.Register();
 		}
 	}

@@ -35,7 +35,7 @@ namespace FrogGun.Content.Items.Weapons
             Item.shoot = ModContent.ProjectileType<FrogProjectile>();
             Item.shootSpeed = 5f;
 
-            Item.useAmmo = AmmoID.Rocket;
+            Item.useAmmo = AmmoID.Stake;
         }
 
     }
