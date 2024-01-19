@@ -2,9 +2,9 @@
 Terraria mod that adds a new post-Duke Fishron gun that shoots BattleBlock Theater Frogs
 # What does it add?
 ## New type of ammo - Frog Ammo 
-It can be crafted using "Frog" and a "Top Hat" at workbench
+It can be crafted using "Frog" and a "Top Hat" at workbench. It is a type of a Stake 
 ## New type of projectile - Frog Projectile
-It appears when you shoot any rocket from Frog Gun
+It appears when you shoot any stake from Frog Gun
 ## New weapon - Frog Gun
 It uses Stakes as ammo, and shoots out BattleBlock Theater Frogs. Base Damage is 250
 
