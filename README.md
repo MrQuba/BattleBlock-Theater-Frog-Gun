@@ -1,8 +1,7 @@
 # BattleBlock-Theater-Frog-Gun
 Terraria mod that adds a new post-Duke Fishron gun that shoots BattleBlock Theater Frogs
 # What does it add?
-## New type of ammo - Frog Ammo 
-It can be crafted using "Frog" and a "Top Hat" at Ancient Manipulator. It is a type of a Stake 
+You can find [here](https://mrquba.github.io/subpages/wiki/terraria/frogGun/main.html) what it adds
 ## New type of projectile - Frog Projectile
 It appears when you shoot any stake from Frog Gun
 ## New weapon - Frog Gun
